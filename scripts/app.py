@@ -128,6 +128,5 @@ if st.session_state.qa_history:
 
 st.markdown("""
 ---
-✅ Built using Python, Streamlit, and OpenAI API  
 📌 Answers rely **only** on the scraped content from the provided URLs
 """)
